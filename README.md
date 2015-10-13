@@ -6,7 +6,7 @@ Auto cheer **Wantedly Project** with Selenium
 1. Clone this repository
 
 ```
-$ clone https://github.com/KeitaMoromizato/wantedly-auto-cheer
+$ git clone https://github.com/KeitaMoromizato/wantedly-auto-cheer
 $ cd wantedly-auto-cheer
 $ npm i
 ```

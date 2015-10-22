@@ -3,7 +3,7 @@ Auto cheer **Wantedly Project** with Selenium
 
 ## How To Use
 
-1. Clone this repository
+### 1. Clone this repository
 
 ```
 $ git clone https://github.com/KeitaMoromizato/wantedly-auto-cheer
@@ -11,14 +11,14 @@ $ cd wantedly-auto-cheer
 $ npm i
 ```
 
-2. Add Facebook Id/Pass in environment
+### 2. Add Facebook Id/Pass to environment
 
 ```
 $ export FACEBOOK_USER_ID=xxxxxx
 $ export FACEBOOK_PASSWORD=xxxxxx
 ```
 
-3. run
+### 3. run
 
 ```
 $ node app.js [project_id]
